@@ -1,0 +1,4 @@
+$ npm install firebase
+$ firebase login
+$ firebase init
+$ firebase deploy
